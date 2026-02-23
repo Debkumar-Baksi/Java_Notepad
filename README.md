@@ -70,6 +70,4 @@ Debkumar Baksi
 
 ## Video Demo
 
-You can upload your demo to YouTube and place the link below:
-
-https://your-video-demo-link-here.com
+[Demo on LinkedIn](https://www.linkedin.com/posts/debkumar-baksi-269738279_java-javadeveloper-corejava-activity-7431732433559113728-Uluo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPrDnEBVjAz3BltRhVC2Ye2Hln8TZTZw70)
