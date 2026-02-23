@@ -64,7 +64,7 @@ java Notepad
 - Add keyboard shortcuts
 
 ## Author
-Your Name
+Debkumar Baksi
 
 ---
 
